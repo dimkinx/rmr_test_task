@@ -1,0 +1,38 @@
+type TableData = {
+  'key': string;
+  'fullName': string;
+  '2021-05-01': string;
+  '2021-05-02': string;
+  '2021-05-03': string;
+  '2021-05-04': string;
+  '2021-05-05': string;
+  '2021-05-06': string;
+  '2021-05-07': string;
+  '2021-05-08': string;
+  '2021-05-09': string;
+  '2021-05-10': string;
+  '2021-05-11': string;
+  '2021-05-12': string;
+  '2021-05-13': string;
+  '2021-05-14': string;
+  '2021-05-15': string;
+  '2021-05-16': string;
+  '2021-05-17': string;
+  '2021-05-18': string;
+  '2021-05-19': string;
+  '2021-05-20': string;
+  '2021-05-21': string;
+  '2021-05-22': string;
+  '2021-05-23': string;
+  '2021-05-24': string;
+  '2021-05-25': string;
+  '2021-05-26': string;
+  '2021-05-27': string;
+  '2021-05-28': string;
+  '2021-05-29': string;
+  '2021-05-30': string;
+  '2021-05-31': string;
+  'totalDuration': string;
+};
+
+export type {TableData};
